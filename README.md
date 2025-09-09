@@ -10,7 +10,6 @@ Este es un sitio web simple hecho con HTML, CSS y/o JavaScript. Está publicado 
 
 - `index.html`: Página principal
 - `style.css`: Estilos del sitio
-- `script.js`: (si tienes) código JavaScript
 
 ## 🚀 Publicado con
 
